@@ -1,0 +1,26 @@
+{
+ "packages": {
+  "dir": "",
+  "menu": [
+   [
+    "TOKENS",
+    []
+   ],
+   [
+    "COMPONENTS",
+    []
+   ],
+   [
+    "INFRASTRUCTURE",
+    []
+   ],
+   "TOKENS"
+  ]
+ },
+ "dependencies": {
+  "autoInstall": false
+ },
+ "doc": {
+  "markdownEngine": "mdjs"
+ }
+}
